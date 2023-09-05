@@ -28,6 +28,6 @@ Contoh tampilan Master Pelanggan :
 2. Buka web server (Xampp) dan klik start pada baris apache
 3. Buka web browser, kemudian ketikan ;
 ``` 
-http://localhost/ci3Akmal/barangakmal
+http://localhost/202010225167_Akmal-Najib
 ```
 4. Dan website akan memunculkan form pemesanan taxi online
